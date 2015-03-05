@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidNetwork</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wifi">开启wifi</string>
+    <string name="gprs">开启移动数据</string>
+</resources>
